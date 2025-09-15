@@ -1,0 +1,4 @@
+- Developed a full end-to-end Employee Data Analysis project using Python, including data cleaning, exploratory data analysis, feature engineering, visualizations, and a simple predictive model. (Technologies: Pandas, Matplotlib, Scikit-learn, Streamlit)
+- Created interactive visualizations and a deployable Streamlit dashboard summarizing hiring trends, department headcounts, and managerial hierarchies.
+- Engineered features such as tenure, hire_year, and direct_reports_count to enable analytical insights and basic prediction tasks.
+- Documented the project with step-by-step notebook, reproducible requirements, and a README suitable for GitHub portfolio presentation.
